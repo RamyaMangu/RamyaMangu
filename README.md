@@ -1,5 +1,6 @@
 ### Hi there 👋, Nice to see you!
 
+My name is Ramya Sai Swathi Mangu
 ![gabi-d](https://user-images.githubusercontent.com/66845657/161664852-3c092928-69f9-455d-b1d4-177dbfa1443e.gif)
 - I am a Senior Computer science student at University of California Irvine specializing in Bioinformatics.
 - I am currently part of a research team that focuses on Automated Speech Recognition in Clinics.
