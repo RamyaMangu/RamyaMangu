@@ -2,10 +2,9 @@
 
 My name is Ramya Sai Swathi Mangu
 ![gabi-d](https://user-images.githubusercontent.com/66845657/161664852-3c092928-69f9-455d-b1d4-177dbfa1443e.gif)
-- I am a Senior Computer science student at University of California Irvine specializing in Bioinformatics.
+- I am a Senior Computer science student at University of California Irvine specializing in Intelligent Systems.
 - I am currently part of a research team that focuses on Automated Speech Recognition in Clinics.
 - Pariticipated in **HackUCI 2022** where we tried to build a tinder like app that helps you find workout buddies. I worked as a backend developer coding in python and used Firebase API.
-- *Currently taking classes* in MySql, Computational Geometry, Information Retrieval, CyberSecurity and Database Management.
 - *Concepts I am familiar with:*
 - Data Structures, OOPs, Machine/Data Mining, Computer Networks
 - *Efficient in:*
