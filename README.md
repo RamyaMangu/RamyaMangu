@@ -1,7 +1,7 @@
 ### Hi there 👋, Nice to see you!
 
-My name is Ramya Sai Swathi Mangu
 ![gabi-d](https://user-images.githubusercontent.com/66845657/161664852-3c092928-69f9-455d-b1d4-177dbfa1443e.gif)
+- My name is Ramya Sai Swathi Mangu
 - I am a recent graduate from University of California Irvine with BS in Computer Science and specialization in Intelligent Systems.
 - I am currently part of a research team that focuses on Automated Speech Recognition in Clinics.
 - Participated in **HackUCI 2022** where we tried to build a tinder like app that helps you find workout buddies. I worked as a backend developer coding in python and used Firebase API.
